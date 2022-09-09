@@ -26,6 +26,8 @@ int main()
         else
         {
             cout << "Not a valid Email ID" << endl;
+           
         }
+        break;
     }
 }
